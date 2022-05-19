@@ -1,2 +1,3 @@
-# icon-cache-cleaner-win
+# Icon cache cleaner for windows
+
 Icon cache cleaner for windows.
